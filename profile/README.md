@@ -1,6 +1,6 @@
 ![Digitx without tagline White](https://github.com/user-attachments/assets/d22da870-8c81-4762-b6a2-017c7753b7ec)
 
-# DIGITX LLC — Product Engineering for AI, QA, and Software Delivery
+# DIGITX — AI Engineering, QA, and Software Delivery
 
 We build and ship AI products, automate quality at scale, and deliver production-ready software with measurable outcomes.
 
